@@ -5,18 +5,20 @@
 <br></br>
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
 <br></br>
-#### I am a Full-Stack Software Engineer
-- Georgia Southern Alumnus
-- 🔭 I’m currently working on A lot... 
-- 🌱 I’m currently learning Via LinkedIn Learning 
-- 👯 I’m looking to collaborate on Anything just hit me up 
-- 🤔 I’m looking for help with <a href ="https://sites.google.com/view/perilousgamesltd/games/ad-astra-periclum/gallery"> Ad Astra</a> (A space game I'm creating)
-- 💬 Ask me about <a href="www.perilousgames.com">Perilous Games, Ltd. </a>
-- 📫 How to reach me: roku674@gmail.com 
-- ⚡ Fun fact: I'm a gamer 
+<h2>I am a Full-Stack Software Engineer</h2>
+<ul>
+<li>Georgia Southern Alumnus</li>
+<li> 🔭 I’m currently working on A lot... </li>
+<li> 🌱 I’m currently learning Via LinkedIn Learning </li>
+<li> 👯 I’m looking to collaborate on Anything just hit me up </li>
+<li> 🤔 I’m looking for help with <a href ="https://sites.google.com/view/perilousgamesltd/games/adastrapericlum/gallery"> Ad Astra</a> (A space game I'm creating)</li>
+<li> 💬 Ask me about <a href="www.perilousgames.com">Perilous Games, Ltd. </a></li>
+<li> 📫 How to reach me: roku674@gmail.com </li>
+<li> ⚡ Fun fact: I'm a gamer</li>
+</ul>
 
 <br></br>
-Skills:
+<h2>Skills:</h2>
 <div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
@@ -28,19 +30,24 @@ Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
 </div>
+<br></br>
+<h2>Contacts:</h2>
 
-Contacts:
 <br></br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roku674)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexander-fields-aa57a997/) 
 
 
 <br></br>
-Certifications:
+<h2>Certifications:</h2>
 <ul>
 <li>
     <a href="https://bcert.me/bc/html/show-badge.html?b=uidevczt">Scrum Master Cerrtified
     </a>
 </li>
+ 
+  
+<br></br>
+<h3>Credentials:</h3>
 
 <li>
   <a href="https://www.linkedin.com/learning/certificates/d98d90539667b9a67840efdcda2549f4880b2865fa212c6704e2eba876a3e4f4?original_referer=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-fields-aa57a997%3Ftrk%3Dpeople-guest_people_search-card">Google Cloud and Storage Foundations
