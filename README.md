@@ -8,7 +8,7 @@
 <h2>I am a Full-Stack Software Engineer</h2>
 <ul>
 <li>Georgia Southern Alumnus</li>
-<li> 🔭 I’m currently working on A lot... </li>
+<li> 🔭 I’m currently working on A Discord Bot... </li>
 <li> 🌱 I’m currently learning Via LinkedIn Learning </li>
 <li> 👯 I’m looking to collaborate on Anything just hit me up </li>
 <li> 🤔 I’m looking for help with <a href ="https://sites.google.com/view/perilousgamesltd/games/adastrapericlum/gallery"> Ad Astra</a> (A space game I'm creating)</li>
