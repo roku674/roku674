@@ -13,7 +13,7 @@
 <li> 👯 I’m looking to collaborate on Anything just hit me up </li>
 <li> 🤔 I’m looking for help with <a href ="https://sites.google.com/view/perilousgamesltd/games/adastrapericlum/gallery"> Ad Astra</a> (A space game I'm creating)</li>
 <li> 💬 Ask me about <a href="www.perilousgames.com">Perilous Games, Ltd. </a></li>
-<li> 📫 How to reach me: roku674@gmail.com </li>
+<li> 📫 How to reach me: <a href="mailto: roku674@gmail.com">roku674@gmail.com </a></li>
 <li> ⚡ Fun fact: I'm a gamer</li>
 </ul>
 
