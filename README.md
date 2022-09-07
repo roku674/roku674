@@ -48,7 +48,8 @@
   
 <br></br>
 <h3>Credentials:</h3>
-
+<details>
+  <summary> reveal credentials</summary>
 <li>
   <a href="https://www.linkedin.com/learning/certificates/d98d90539667b9a67840efdcda2549f4880b2865fa212c6704e2eba876a3e4f4?original_referer=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-fields-aa57a997%3Ftrk%3Dpeople-guest_people_search-card">Google Cloud and Storage Foundations
   </a>
@@ -184,3 +185,4 @@
 </li>
 
 </ul>
+</details>
