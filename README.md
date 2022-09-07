@@ -1,20 +1,21 @@
 [![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://alexanderfields.me)
+[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&show_icons=true&theme=react)](https://github.com/roku674)
 
-[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&show_icons=true&theme=react)](https://github.com/roku674)   
-
+<h2>Full-Stack Software Engineer</h2>
 <br></br>
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
 <br></br>
-<h2>I am a Full-Stack Software Engineer</h2>
-<ul>
-<li>Georgia Southern Alumnus</li>
-<li> 🔭 I’m currently working on A Discord Bot... </li>
-<li> 🌱 I’m currently learning Via LinkedIn Learning </li>
-<li> 👯 I’m looking to collaborate on Anything just hit me up </li>
-<li> 🤔 I’m looking for help with <a href ="https://sites.google.com/view/perilousgamesltd/games/adastrapericlum/gallery"> Ad Astra</a> (A space game I'm creating)</li>
+<p>
+I'm a Georgia Southern Alumnus, but🌱 i'm currently learning Via LinkedIn Learning.
+  </p>
+<p>
+🔭 I'm presently working on Ad Astra and a Discord Bot; I'm also a gamer.  </p>
+<p>
+ 👯 If you're looking to collaborate on anything just hit me up. I'm also 🤔 looking for help with 
+<a href ="https://sites.google.com/view/perilousgamesltd/games/adastrapericlum/gallery"> Ad Astra</a> (A space game I'm creating)
+</p>
 <li> 💬 Ask me about <a href="www.perilousgames.com">Perilous Games, Ltd. </a></li>
 <li> 📫 How to reach me: <a href="mailto: roku674@gmail.com">roku674@gmail.com </a></li>
-<li> ⚡ Fun fact: I'm a gamer</li>
 </ul>
 
 <br></br>
