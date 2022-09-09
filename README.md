@@ -40,6 +40,7 @@
       <li>.NET</li>
       <li>REST APIs</li>
       <li>Java</li>
+      <li>Spring Framework</li>
       <li>Unity3D</li>
       <li>Object-Oriented Programming (OOP)</li>
       <li>MYSQL</li>
@@ -49,6 +50,8 @@
       <li>Google Cloud Platform (GCP)</li>
       <li>JavaScript</li>
       <li>HTML</li>
+      <li>Node.js</li>
+      <li>React.js</li>
       <li>Python (Programming Language)</li>
     </ul>
 </details>
