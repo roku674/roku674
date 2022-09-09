@@ -44,7 +44,7 @@
       <li>Object-Oriented Programming (OOP)</li>
       <li>MYSQL</li>
       <li>Git</li>
-      <li>Agile Methodologies</li>>
+      <li>Agile Methodologies</li>
       <li>Amazon Web Services (AWS)</li>
       <li>Google Cloud Platform (GCP)</li>
       <li>JavaScript</li>
