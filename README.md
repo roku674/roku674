@@ -32,6 +32,27 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
 </div>
 
+<details>
+  <summary>LinkedIn Skills Badges</summary>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/alexander-a-fields/details/skills/">LinkedIn skills link</a></li>
+      <li>C#</li>
+      <li>.NET</li>
+      <li>REST APIs</li>
+      <li>Java</li>
+      <li>Unity3D</li>
+      <li>Object-Oriented Programming (OOP)</li>
+      <li>MYSQL</li>
+      <li>Git</li>
+      <li>Agile Methodologies</li>>
+      <li>Amazon Web Services (AWS)</li>
+      <li>Google Cloud Platform (GCP)</li>
+      <li>JavaScript</li>
+      <li>HTML</li>
+      <li>Python (Programming Language)</li>
+    </ul>
+</details>
+
 <h2>Contacts:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roku674)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexander-a-fields/) 
