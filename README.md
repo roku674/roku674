@@ -1,5 +1,10 @@
 [![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://alexanderfields.me)
-[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&show_icons=true&theme=react)](https://github.com/roku674)
+
+[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)
+
+<a href="https://github.com/Perilous-Games/Ad-Astra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perilous-games&repo=adastra&theme=react" />
+</a>
 <h2>Full-Stack Software Engineer</h2>
 <br></br>
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
@@ -31,6 +36,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
 
 <details>
   <summary>LinkedIn Skills Badges</summary>
