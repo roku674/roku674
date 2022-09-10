@@ -34,7 +34,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
 
 <details>
   <summary>LinkedIn Skills Badges</summary>
