@@ -34,8 +34,8 @@
 
 <details>
   <summary>LinkedIn Skills Badges</summary>
-    <ul>
-      <li><a href="https://www.linkedin.com/in/alexander-a-fields/details/skills/">LinkedIn skills link</a></li>
+   <a href="https://www.linkedin.com/in/alexander-a-fields/details/skills/">LinkedIn skills link</a>
+    <ul>     
       <li>C#</li>
       <li>.NET</li>
       <li>REST APIs</li>
