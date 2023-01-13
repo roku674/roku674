@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://alexanderfields.me)
 
-[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)
+[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=false&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)
 
 <h2>Full-Stack Software Engineer</h2>
 <br></br>
