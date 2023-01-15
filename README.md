@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://alexanderfields.me)
-<!--
-[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)-->
+
+[![Roku674's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)
 
 <h2>Full-Stack Software Engineer</h2>
 <br></br>
@@ -35,9 +35,9 @@
 </div>
 
 <p>
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
--->
+
 </p>
 
 <details>
