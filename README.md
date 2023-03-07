@@ -75,8 +75,8 @@
       </a>
    </li>
 </ul>
-<details>
-   <summary>See more</summary>
+<!-- <details> -->
+   <!-- <summary>See more</summary> -->
    <details>
       <summary>API</summary>
       <ul>
@@ -285,4 +285,4 @@
          </li>
       </ul>
    </details>
-</details>
+<!-- </details> -->
