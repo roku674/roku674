@@ -40,6 +40,16 @@
 
 </p>
 
+<h3>Assesments</h3>
+  <ul>
+    <li>
+     <a href="https://triplebyte.com/tb/alexander-fields-sf0votk/certificate">C# 6.0 PROGRAMMING</a>
+   </li>
+   <li>
+     <a href="https://triplebyte.com/tb/alexander-fields-sf0votk/certificate">Triplebyte Certified: Back-end</a>
+   </li>
+  </ul>
+
 <details>
   <summary>LinkedIn Skills Badges</summary>
    <a href="https://www.linkedin.com/in/alexander-a-fields/details/skills/">LinkedIn skills link</a>
