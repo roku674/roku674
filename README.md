@@ -87,6 +87,10 @@
       <a href="https://bcert.me/bc/html/show-badge.html?b=uidevczt">Scrum Master Cerrtified
       </a>
    </li>
+    <li>
+      <a href="https://drive.google.com/drive/folders/1bhHUa6VtaJY_iB_qCT3QM8G_A9AxCDWt?usp=sharing">All Certifications
+      </a>
+   </li>
 </ul>
 <!-- <details> -->
    <!-- <summary>See more</summary> -->
