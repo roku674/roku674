@@ -8,6 +8,12 @@
 <br></br>
 <p>
    I'm a Georgia Southern Alumnus, but i'm currently learning Via LinkedIn Learning. (Click the LinkedIn button in my contacts section for professional expertise)
+   <br></br>
+   Industry Experience:
+   <ul>
+   <li>API Engineer (Full Stack): Medical Liability Insurnace (2 years)</li>
+   <li>Backend Software Engineer (ETL): Data Analytics (3 months+ - Present)</li>
+   </ul>
 </p>
 <p>
    I'm presently working on Ad Astra and a Discord Bot; I'm also a gamer and mine cryptocurrency. 
