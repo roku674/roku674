@@ -12,7 +12,7 @@
    Industry Experience:
    <ul>
    <li>API Engineer (Full Stack): Medical Liability Insurnace (2 years)</li>
-   <li>Backend Software Engineer (ETL): Data Analytics (3 months+ - Present)</li>
+   <li>Backend Software Engineer (ETL): Data Analytics (6 months+ - Present)</li>
    </ul>
 </p>
 <p>
