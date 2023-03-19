@@ -11,9 +11,9 @@
    <br></br>
    Industry Experience:
    <ul>
-   <li>API Engineer (Full Stack): Medical Liability Insurnace (2 years)</li>
-   <li>Backend Software Engineer (ETL): Data Analytics (6 months+ - Present)</li>
-   <li>Signal Programming (Traffic): Civil Traffic & Transportation (1 year)</li>
+      <li>Backend Software Engineer (ETL): Data Analytics (6 months+ - Present)</li>
+      <li>API Engineer (Full Stack): Medical Liability Insurnace (2 years)</li>
+      <li>Signal Programming (Traffic): Civil Traffic & Transportation (1 year)</li>
    </ul>
 </p>
 <p>
