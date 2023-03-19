@@ -7,7 +7,7 @@
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
 <br></br>
 <p>
-   I'm a Georgia Southern Alumnus, but i'm currently learning Via LinkedIn Learning. (Click the LinkedIn button in my contacts section for professional expertise)
+   I'm a Georgia Southern Alumnus, but i'm currently learning Via LinkedIn Learning.
    <br></br>
    Industry Experience:
    <ul>
