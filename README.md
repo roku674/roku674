@@ -11,13 +11,13 @@
    <br></br>
    Industry Experience:
    <ul>
-      <li>Backend Software Engineer (ETL): Data Analytics (6 months - Present)</li>
+      <li>Backend Software Engineer (ETL): Data Analytics (1 Year - Present)</li>
       <li>API Engineer (Full Stack): Medical Liability Insurnace (2 years)</li>
       <li>Embedded Systems (TCU): Civil Traffic & Transportation (1 year)</li>
    </ul>
 </p>
 <p>
-   I'm presently working on Ad Astra and a Discord Bot; I'm also a gamer and mine cryptocurrency. 
+   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. 
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm also looking for help with 
