@@ -24,7 +24,7 @@
    <a href ="https://sites.google.com/view/perilousgamesltd/games/ad-astra-periclum/gallery"> Ad Astra</a> (A space game I'm creating)
 </p>
 <ul>
-   <li> 💬 Ask me about <a href="www.perilousgames.com">Perilous Games, Ltd. </a></li>
+   <li> 💬 Ask me about <a href="https://www.perilousgames.com">Perilous Games, Ltd. </a></li>
    <li> 📫 How to reach me: <a href="mailto: roku674@gmail.com">roku674@gmail.com </a></li>
 </ul>
 <br></br>
