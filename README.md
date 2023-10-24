@@ -17,7 +17,7 @@
    </ul>
 </p>
 <p>
-   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. 
+   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. If your business takes card payments and is looking to save money PLEASE reach out!
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm currently working on a free web scraper called Scrape Daddy; I'm also looking for help with 
