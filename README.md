@@ -7,7 +7,7 @@
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
 <br></br>
 <p>
-   I'm a Georgia Southern Alumnus, but i'm currently learning Via LinkedIn Learning.
+   I'm a Georgia Southern Alumnus, but i'm always learning Via LinkedIn Learning. If your business takes card payments and is looking to save money PLEASE reach out!
    <br></br>
    Industry Experience:
    <ul>
@@ -17,7 +17,7 @@
    </ul>
 </p>
 <p>
-   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. If your business takes card payments and is looking to save money PLEASE reach out!
+   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. 
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm currently working on a free web scraper called Scrape Daddy; I'm also looking for help with 
