@@ -40,13 +40,16 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
 <p>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
-
+<br />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=roku674&" alt="roku674" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roku674" alt="roku674" /></a> </p>
 </p>
 
 <h3>Assesments</h3>
