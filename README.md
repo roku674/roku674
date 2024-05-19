@@ -47,7 +47,7 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
 <br />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=roku674&" alt="roku674" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
