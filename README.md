@@ -87,7 +87,7 @@
       <li>HTML</li>
       <li>Node.js</li>
       <li>React.js</li>
-      <li>Python (Programming Language)</li>
+      <li>Python</li>
     </ul>
 </details>
 
