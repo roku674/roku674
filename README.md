@@ -47,7 +47,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
 <br />
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=roku674&" alt="roku674" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roku674&theme=github-dark-dimmed" alt="GitHub Streak" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roku674" alt="roku674" /></a> </p>
 </p>
