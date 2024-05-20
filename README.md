@@ -29,7 +29,6 @@
    <li> 📫 How to reach me: <a href="mailto: roku674@gmail.com">roku674@gmail.com </a></li>
    <li> 💬 Currently working an open source website to assess the stock market <a href="https://www.stocksinfo.net">Stocks Info</a></li>
 </ul>
-<br></br>
 <h2>Skills:</h2>
 <div align="left">  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"/>
@@ -44,7 +43,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake logo" width="160" height="40"/>
 </div>
-
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
