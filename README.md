@@ -91,7 +91,18 @@
 
 <h2>Contacts:</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roku674)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexander-a-fields/) 
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/roku674" style="background-color: white; border-radius: 5px; padding: 5px; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-a-fields/" style="background-color: white; border-radius: 5px; padding: 5px; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+  <a href="https://discord.com/users/your-discord-username" style="background-color: white; border-radius: 5px; padding: 5px; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40">
+  </a>
+</div>
+
 <br></br>
 <h2>Certifications:</h2>
 <ul>
