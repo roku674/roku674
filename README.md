@@ -7,7 +7,7 @@
 <img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
 <br></br>
 <p>
-   I'm a Georgia Southern Alumnus, but i'm always learning Via LinkedIn Learning. If your business takes card payments and is looking to save money PLEASE reach out!
+   I'm a Georgia Southern Alumnus, but i'm always learning Via LinkedIn Learning. Most of my work is on private or for corporations, which are also private. If your business takes card payments and is looking to save money PLEASE reach out!
    <br></br>
    Industry Experience:
    <ul>
