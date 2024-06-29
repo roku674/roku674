@@ -21,7 +21,7 @@
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm mostly working on Ad Astra Imperium I'm also looking for help with 
-   <a href ="https://sites.google.com/view/perilousgamesltd/games/ad-astra-periclum/gallery"> Ad Astra</a> (A space game I'm creating)
+   <a href ="https://www.perilousgames.com"> Ad Astra</a> (A space game I'm creating)
 </p>
 <ul>
    <!--<li> 💬 Checkout <a href="https://www.scrapedaddy.org">Scrape Daddy</a></li> -->
