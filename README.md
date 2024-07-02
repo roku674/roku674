@@ -11,7 +11,7 @@
    <br></br>
    Industry Experience:
    <ul>
-      <li>Backend Software Engineer (ETL): Financial Data Analytics (1 Year - Present)</li>
+      <li>Backend Software Engineer (ETL): Financial Data Analytics (2 Year - Present)</li>
       <li>API Engineer (Full Stack): Medical Liability Insurance (2 years)</li>
       <li>Embedded Systems (TCU): Civil Traffic & Transportation (1 year)</li>
    </ul>
