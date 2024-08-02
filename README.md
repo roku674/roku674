@@ -17,7 +17,7 @@
    </ul>
 </p>
 <p>
-   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. 
+   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. If you want to join the discord to keep up to date on development feel free to <a href="https://discord.gg/dT8nRduVwN">Join Perilous Games Discord</a>
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm mostly working on Ad Astra Imperium I'm also looking for help with 
