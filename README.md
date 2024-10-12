@@ -18,11 +18,11 @@
 </p>
 <p>
    I'm currently starting on an open source website called <a href="https://www.kingdomofgod.online">Kingdom Of God</a>. A website to connect all people around the world in a social media that is centered around philosophy and strong community.
-   I'm presently working on Ad Astra; I'm also a gamer and mine cryptocurrency. If you want to join the discord to keep up to date on development feel free to <a href="https://discord.gg/dT8nRduVwN">Join Perilous Games Discord</a>
+   I'm presently working on <a href ="https://www.perilousgames.com"> Ad Astra Imperium</a>; I'm also a gamer and mine cryptocurrency. If you want to join the discord to keep up to date on development feel free to <a href="https://discord.gg/dT8nRduVwN">Join Perilous Games Discord</a>
 </p>
 <p>
    👯 If you're looking to collaborate on anything just hit me up. I'm mostly working on Ad Astra Imperium I'm also looking for help with 
-   <a href ="https://www.perilousgames.com"> Ad Astra</a> (A space game I'm creating)
+   <a href ="https://www.perilousgames.com"> Ad Astra Imperium</a> (A space game I'm creating)
 </p>
 <ul>
    <!--<li> 💬 Checkout <a href="https://www.scrapedaddy.org">Scrape Daddy</a></li> -->
