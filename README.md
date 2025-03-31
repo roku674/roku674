@@ -17,7 +17,7 @@
    </ul>
 </p>
 <p>
-   I'm currently starting on an open source website called <a href="https://www.kingdomofgod.online">Kingdom Of God</a>. A website to connect all people around the world in a social media that is centered around philosophy and strong community.
+   I'm currently starting on my personal website <a href="https://www.alexanderfields.me">Kingdom Of God</a>. Mostly working on improving my frontend/UI skills.
    I'm presently working on <a href ="https://www.perilousgames.com"> Ad Astra Imperium</a>; I'm also a gamer and mine cryptocurrency. If you want to join the discord to keep up to date on development feel free to <a href="https://discord.gg/dT8nRduVwN">Join Perilous Games Discord</a>
 </p>
 <p>
