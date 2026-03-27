@@ -29,7 +29,7 @@
    <!--<li> 💬 Checkout <a href="https://www.scrapedaddy.org">Scrape Daddy</a></li> -->
    <li> 💬 Ask me about <a href="https://www.perilousgames.com">Perilous Games, Ltd. </a></li>
    <li> 📫 How to reach me: <a href="mailto: roku674@gmail.com">roku674@gmail.com </a></li>
-   <li> 💬 Currently working on Mandala Consulting, LLC (A corporation for software consulting atm its just me) but checkout the <a href="https://github.com/roku674?tab=packages"> Software Packages </a> | <a href="https://www.nuget.org/profiles/roku674">Nuget Packages </a></li>
+   <li> 💬 Currently working on Anointed Automation, LLC (A corporation for software consulting atm its just me) but checkout the <a href="https://github.com/roku674?tab=packages"> Software Packages </a> | <a href="https://www.nuget.org/profiles/roku674">Nuget Packages </a></li>
 </ul>
 <h2>Skills:</h2>
 <div align="left">  
