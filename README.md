@@ -61,7 +61,15 @@
 </p>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/roku674/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
 <br />
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roku674&theme=github-dark-dimmed" alt="GitHub Streak" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
