@@ -1,11 +1,24 @@
-[![MasterHead](https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif)](https://alexanderfields.me)
+<div align="center">
 
-[![Roku674's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/roku674)
+<a href="https://alexanderfields.me">
+  <img src="https://c.tenor.com/BxuhqfpyRFwAAAAC/loading-system.gif" alt="MasterHead"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/roku674">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react" />
+</a>
+
+<br><br>
 
 <h2>Full-Stack Software Engineer</h2>
-<br></br>
-<img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png"/>
-<br></br>
+
+<br>
+
+<img src="https://cdn.georgiasouthern.edu/logos/eGSlogo.png" alt="Georgia Southern Logo"/>
+
+</div>
 <p>
    I'm a Georgia Southern Alumnus, but i'm always learning Via LinkedIn Learning. Most of my code on github is on private or for corporations, which are also private. If your business takes card payments and is looking to save money PLEASE reach out! 
    <br></br>
@@ -50,9 +63,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact)](https://github.com/roku674/github-readme-stats)
 <br />
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roku674&theme=github-dark-dimmed" alt="GitHub Streak" /></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roku674" alt="roku674" /></a> </p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roku674&theme=github-dark-dimmed" alt="GitHub Streak" /></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roku674" alt="roku674" /></a> </p>
 </p>
 
 <h3>Assesments</h3>
