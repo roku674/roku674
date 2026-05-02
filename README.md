@@ -32,7 +32,7 @@
    <li> 💬 Currently working on Anointed Automation, LLC (A corporation for software consulting atm its just me) but checkout the <a href="https://github.com/roku674?tab=packages"> Software Packages </a> | <a href="https://www.nuget.org/profiles/roku674">Nuget Packages </a></li>
 </ul>
 <h2>Skills:</h2>
-<div align="left">  
+<div>  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"/>
