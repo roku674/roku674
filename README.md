@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://github.com/roku674">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roku674&count_private=true&include_all_commits=true&show_icons=true&theme=react" />
+  <img src="./profile/stats.svg" />
 </a>
 
 <br><br>
@@ -62,9 +62,9 @@
 <p>
 
 <p align="center">
-  <a href="https://github.com/roku674/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=roku674&langs_count=8&hide=fortran,assembly,rich,maxscript,html,css&theme=react&layout=compact"
+      src="./profile/top-langs.svg"
       alt="Top Languages"
     />
   </a>
@@ -73,7 +73,7 @@
 <br />
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roku674&theme=github-dark-dimmed" alt="GitHub Streak" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roku674&label=Profile%20views&color=0e75b6&style=flat" alt="roku674" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roku674" alt="roku674" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=roku674" alt="roku674" /></a> </p>
 </p>
 
 <h3>Assesments</h3>
